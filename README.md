@@ -1,1 +1,1 @@
-# CMPE-148
+# CMPE-148 ICMP Lab code
